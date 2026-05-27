@@ -28,15 +28,23 @@ This commands includes
 
 ## Output
 ##1.nslookup
+
+
 <img width="767" height="1020" alt="image" src="https://github.com/user-attachments/assets/c19d4c3c-b3ab-4bbc-b3be-ab2c7b660f6f" />
 
 ##2.ipconfig:
+
+
 <img width="814" height="632" alt="image" src="https://github.com/user-attachments/assets/4db45fd1-666b-4677-9c13-a453ed5c65e6" />
 
 ##3.ping:
+
+
 <img width="714" height="295" alt="image" src="https://github.com/user-attachments/assets/186f299f-7fa3-49d4-a94f-30a9eae78dcf" />
 
 ##4.tracert:
+
+
 <img width="584" height="354" alt="image" src="https://github.com/user-attachments/assets/ee4bcc72-81a4-48ec-8397-4f27305e13b7" />
 
 
